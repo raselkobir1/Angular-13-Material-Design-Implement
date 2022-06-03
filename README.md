@@ -1,5 +1,14 @@
 # AngMaterialOwneraccount
 
+Material theme add---------: ng add @angular/material
+hammer.js install----------: npm install --save hammerjs
+module Add for Material----: ng g module material --module app
+component create-----------: >ng g component layout --skip-tests
+add angular flex layout----: npm install @angular/flex-layout --save
+Module add Routing---------: ng g module routing --module app
+Navigation Header comp-----: ng g component navigation/header --skipTests
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
